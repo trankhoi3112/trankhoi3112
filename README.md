@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @trankhoi3112
 - 👀 I’m interested in Game/Web Development
 - 🌱 I’m currently learning HTML/CSS/Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 <!---
 trankhoi3112/trankhoi3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

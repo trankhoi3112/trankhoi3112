@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @trankhoi3112
-- 👀 I’m interested in Game/Web Development
-- 🌱 I’m currently learning HTML/CSS/Javascript
 
 
 
